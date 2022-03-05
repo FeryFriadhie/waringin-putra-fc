@@ -5,13 +5,15 @@ Pelatih A Dindin
         M. Ruhyat
         A. Agung
 Asisten M. Undang
+        A. Budi
+
 
 
 Nama-Nama dan posisi Pemain:
-Fauzi GK
-Rendi GK
-Iyo   GK
-Dani  GK
+Fauzi GK Dilatih oleh A Agung
+Rendi GK Dilatih oleh Dodi
+Iyo   GK Dilatih oleh A Dindin
+Dani  GK Dilatih oleh Bowo
 Nafeza RB
 Rizal  LB
 Farel  CB

@@ -10,10 +10,17 @@ Asisten M. Undang
 
 
 Nama-Nama dan posisi Pemain:
+
+
+
+
+
+
 Fauzi GK Dilatih oleh A Agung
 Rendi GK Dilatih oleh Dodi
 Iyo   GK Dilatih oleh A Dindin
 Dani  GK Dilatih oleh Bowo
+
 Nafeza RB
 Rizal  LB
 Farel  CB
@@ -24,12 +31,12 @@ Daffa  CB
 Hilmi  DMF
 Rama   DMF
 Reval  DMF
-Ipey   CMF
+Ipey   CMF dilatih oleh A Fauzi
 Saepul RAF
 Akmal  LWF
 Rahmat RAF
 Galang LWF
-Rehan  CF
+Rehan  CF Kapten Tim
 Nasjar CF
 
 Warna Jersey: Hitam Merah
